@@ -1,0 +1,30 @@
+Web Design Course 
+
+HTML - HyperText Markup Language
+
+<b></b> - bold
+<br> - break row
+<i></i> - italic 
+<ul>
+    <li></li>
+</ul> - unordered list
+
+<ol>
+    <li></li>
+</ol> - ordered list
+
+<a>
+    href types:
+    - "http(s):// -> external link 
+    - "otherpage.html" -> other page inside project 
+    - "#section" -> the same file 
+</a>
+
+ <hr> - (horizontal row) show a line 
+ strong -> semantic value 
+ em -> semantic value 
+
+Semantic Structure 
+    <head></head> - it is not visible into page
+    <body></body> - page content
+    <! - declaration
